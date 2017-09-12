@@ -10,5 +10,8 @@
 #define ShiftChar_h
 
 #include <stdio.h>
-
-#endif /* ShiftChar_h */
+#include <assert.h>
+void LeftShiftString(char *s, int n, int m);
+void LeftRotateString(char *s,int n,int m);
+void testShiftStr();
+#endif 
