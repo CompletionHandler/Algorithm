@@ -10,7 +10,10 @@
 #include "ShiftChar.h"
 
 int main(int argc, const char * argv[]) {
-    testShiftStr();
+//    testShiftStr();
+    char s[14] = "Hello, World!";
+    printf("%s\n", s);
+    
     return 0;
 }
 
