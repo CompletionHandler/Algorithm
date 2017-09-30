@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		0149FEC41F66E26600C3F27F /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 0149FEC31F66E26600C3F27F /* main.c */; };
 		0149FECC1F66E55F00C3F27F /* ShiftChar.c in Sources */ = {isa = PBXBuildFile; fileRef = 0149FECA1F66E55F00C3F27F /* ShiftChar.c */; };
+		018E14481F7FEC5300FB018A /* SortAlgorithm.c in Sources */ = {isa = PBXBuildFile; fileRef = 018E14461F7FEC5300FB018A /* SortAlgorithm.c */; };
 		01D2230F1F6984A3003B9E0B /* StringConstains.c in Sources */ = {isa = PBXBuildFile; fileRef = 01D2230D1F6984A3003B9E0B /* StringConstains.c */; };
 /* End PBXBuildFile section */
 
@@ -29,6 +30,8 @@
 		0149FEC31F66E26600C3F27F /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		0149FECA1F66E55F00C3F27F /* ShiftChar.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ShiftChar.c; sourceTree = "<group>"; };
 		0149FECB1F66E55F00C3F27F /* ShiftChar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShiftChar.h; sourceTree = "<group>"; };
+		018E14461F7FEC5300FB018A /* SortAlgorithm.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = SortAlgorithm.c; sourceTree = "<group>"; };
+		018E14471F7FEC5300FB018A /* SortAlgorithm.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SortAlgorithm.h; sourceTree = "<group>"; };
 		01D2230D1F6984A3003B9E0B /* StringConstains.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = StringConstains.c; sourceTree = "<group>"; };
 		01D2230E1F6984A3003B9E0B /* StringConstains.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StringConstains.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -68,6 +71,8 @@
 				0149FECB1F66E55F00C3F27F /* ShiftChar.h */,
 				01D2230D1F6984A3003B9E0B /* StringConstains.c */,
 				01D2230E1F6984A3003B9E0B /* StringConstains.h */,
+				018E14461F7FEC5300FB018A /* SortAlgorithm.c */,
+				018E14471F7FEC5300FB018A /* SortAlgorithm.h */,
 			);
 			path = TheArtOfProgramming;
 			sourceTree = "<group>";
@@ -133,6 +138,7 @@
 				01D2230F1F6984A3003B9E0B /* StringConstains.c in Sources */,
 				0149FECC1F66E55F00C3F27F /* ShiftChar.c in Sources */,
 				0149FEC41F66E26600C3F27F /* main.c in Sources */,
+				018E14481F7FEC5300FB018A /* SortAlgorithm.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
